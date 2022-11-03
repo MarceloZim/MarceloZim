@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Marcelo Dias 👋
 
-Redes sociais:<br>
+Social networks:<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo_zim8/)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001704040075)
@@ -9,7 +9,7 @@ Redes sociais:<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloZim&show_icons=true&theme=tokyonight)<br>
 
-Tecnologias utilizadas:
+Technologies used:
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,4 +18,4 @@ Tecnologias utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloZim&langs_count=8)](https://github.com/MarceloZim/github-readme-stats)<br>
 
-Iniciante no mundo da programação 🤓🚀
+Beginner in the world of programming 🤓🚀
