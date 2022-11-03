@@ -13,12 +13,8 @@ Redes sociais:<br>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
-<div style="display: inline_block">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
-<div style="display: inline_block">
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+</div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloZim&langs_count=8)](https://github.com/MarceloZim/github-readme-stats)
