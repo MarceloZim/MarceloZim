@@ -7,7 +7,7 @@ Social networks:<br>
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001704040075)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-dias-95a80a191/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloZim&show_icons=true&theme=tokyonight)<br>
+
 
 Technologies used:
 <div style="display: inline_block"><br/>
